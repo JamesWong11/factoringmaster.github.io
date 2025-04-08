@@ -41,6 +41,7 @@ body {
 
 .new_content{
     display: block;
+    color: black;
 }
 
 .menuitem:hover a {
